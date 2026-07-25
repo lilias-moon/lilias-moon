@@ -80,8 +80,8 @@ A first-year university student in Japan — I enjoy untangling everyday inconve
 <div align="center">
 
 <!-- リポジトリ名を書き換えてください -->
-[![Repo](https://github.com/lilias-moon/LiFic)
-[![Repo](htpps://github.com/lilias-moon/Tasq)
+[![LiFic](https://github.com/lilias-moon/LiFic)
+[![Tasq](htpps://github.com/lilias-moon/Tasq)
 </div>
 
 <br/>
