@@ -36,12 +36,12 @@ A first-year university student in Japan — I enjoy untangling everyday inconve
 
 ## ⌖　Languages / 言語
 
-**得意 · Fluent**
+**✨得意 · Fluent**
 
 ![Rust](https://img.shields.io/badge/Rust-0A0E17?style=for-the-badge&logo=rust&logoColor=6EA8FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0E17?style=for-the-badge&logo=javascript&logoColor=6EA8FF)
 
-**勉強中 · Learning**
+**🌱勉強中 · Learning**
 
 ![C](https://img.shields.io/badge/C-0A0E17?style=for-the-badge&logo=c&logoColor=8BB4FF)
 ![C#](https://img.shields.io/badge/C%23-0A0E17?style=for-the-badge&logo=csharp&logoColor=8BB4FF)
