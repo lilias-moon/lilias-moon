@@ -86,7 +86,36 @@ A first-year university student in Japan — I enjoy untangling everyday inconve
 
 <br/>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=lilias-moon=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+<div align="center">
+
+◆　───────────────　◆
+
+</div>
+
+<br/>
+
+## ⌖　Stats / 統計
+
+<div align="center">
+
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img
+    height="165"
+    alt="lilias-moon's GitHub stats"
+    src="https://github-stats-extended.vercel.app/api?username=lilias-moon&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=8&bg_color=0A0E17&title_color=6EA8FF&icon_color=6EA8FF&text_color=B8C7E0&ring_color=6EA8FF&custom_title=atelier%20stats"
+  />
+</a>
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img
+    height="165"
+    alt="Top languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=lilias-moon&layout=compact&langs_count=6&hide_border=true&border_radius=8&bg_color=0A0E17&title_color=6EA8FF&text_color=B8C7E0&custom_title=atelier%20languages"
+  />
+</a>
+
+</div>
+
+<br/>
 
 <div align="center">
 
