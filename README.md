@@ -86,6 +86,8 @@ A first-year university student in Japan — I enjoy untangling everyday inconve
 
 <br/>
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?lilias-moon=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+
 <div align="center">
 
 ◆　───────────────　◆
